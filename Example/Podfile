@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TDACircularProgress_Example' do
+  pod 'TDACircularProgress', :path => '../'
+
+  target 'TDACircularProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

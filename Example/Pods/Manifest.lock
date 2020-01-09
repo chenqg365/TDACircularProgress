@@ -1,0 +1,16 @@
+PODS:
+  - TDACircularProgress (1.0)
+
+DEPENDENCIES:
+  - TDACircularProgress (from `../`)
+
+EXTERNAL SOURCES:
+  TDACircularProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TDACircularProgress: edeb14abf19ae27b10b4a44ce49e6093e7211207
+
+PODFILE CHECKSUM: d37892c649b6081592965c8a697cca57ddd4a217
+
+COCOAPODS: 1.7.5
